@@ -1,0 +1,27 @@
+{
+  "name": "chatbotmicrosoft",
+  "version": "1.0.0",
+  "description": "build bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxposki/chatbotmicrosoft.git"
+  },
+  "keywords": [
+    "bot",
+    "slack"
+  ],
+  "author": "Alex P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxposki/chatbotmicrosoft/issues"
+  },
+  "homepage": "https://github.com/alxposki/chatbotmicrosoft#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
